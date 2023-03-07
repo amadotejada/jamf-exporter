@@ -1,4 +1,4 @@
-# jamf-exporter
+# Jamf Exporter
 Export all scripts, proflles and more from Jamf Pro
 
 This script allows you to export all the macOS scripts and configuration profiles from a JAMF Pro server. Scripts are saved with their file extensions and profiles as .mobileconfig files on your local system.
@@ -28,8 +28,6 @@ This script allows you to export all the macOS scripts and configuration profile
 
 #
 ### Licence
-This script is released under the MIT License. You are free to use, modify, and distribute the script as long as you include the original license file.
+*Jamf Exporter* is released under the [MIT License](https://github.com/amadotejada/jamf-exporter/blob/main/LICENSE)
 
-### Disclaimer
-This script is provided as-is and is not guaranteed to work for all JAMF Pro servers. Use it at your own risk and always test it thoroughly before using it in a production environment.
 #
