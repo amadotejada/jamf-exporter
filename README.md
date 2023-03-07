@@ -22,6 +22,10 @@ This script allows you to export all the macOS scripts and configuration profile
 - Profiles are downloaded in: `./exported_jamf_profiles`
 
 #
+### Security
+When this tool exports from Jamf, it also includes any secrets that were part of that script, profile. Make sure to review and remove any secrets before next steps.
+
+#
 ### TODO
 - Add support for exporting printers
 - Add support for exporting iOS configuration profiles
